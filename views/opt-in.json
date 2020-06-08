@@ -1,0 +1,116 @@
+{
+  "opts": [
+    {
+      "title": "HQ Seasons",
+      "opt": "hq-pts",
+      "in": "Subscribe",
+      "out": "Subscribed",
+      "onboardingDescription": "Play trivia to win cash",
+      "opted": true
+    },
+    {
+      "title": "HQ Trivia",
+      "opt": "hq-general",
+      "in": "Subscribe",
+      "out": "Subscribed",
+      "onboardingDescription": "Play trivia to win cash",
+      "opted": true
+    },
+    {
+      "title": "HQ Sports",
+      "opt": "hq-sports",
+      "in": "Subscribe",
+      "out": "Subscribed",
+      "onboardingDescription": "Answer sports trivia questions to win cash",
+      "opted": true
+    },
+    {
+      "title": "HQ Words",
+      "opt": "hq-words",
+      "in": "Subscribe",
+      "out": "Subscribed",
+      "onboardingDescription": "Play trivia to win cash",
+      "opted": true
+    },
+    {
+      "title": "HQ X",
+      "opt": "hq-heart",
+      "in": "Subscribe",
+      "out": "Subscribed",
+      "onboardingDescription": "Play trivia to win cash",
+      "opted": true
+    },
+        {
+      "title": "HQ Tunes",
+      "opt": "hq-tunes",
+      "in": "Subscribe",
+      "out": "Subscribed",
+      "onboardingDescription": "Play late-night trivia to win cash",
+      "opted": true
+    },
+    {
+      "title": "HQ Jokes",
+      "opt": "hq-jokes",
+      "in": "Subscribe",
+      "out": "Subscribed",
+      "onboardingDescription": "Play trivia to win cash",
+      "opted": true
+    },
+        {
+      "title": "HQ Shop",
+      "opt": "hq-shop",
+      "in": "Subscribe",
+      "out": "Subscribed",
+      "onboardingDescription": "Play trivia to win cash",
+      "opted": true
+    },
+    {
+      "title": "HQ Buzz",
+      "opt": "hq-buzz",
+      "in": "Subscribe",
+      "out": "Subscribed",
+      "onboardingDescription": "Play trivia to win cash",
+      "opted": true
+    },
+    {
+      "title": "HQ FastBall",
+      "opt": "hq-fastball",
+      "in": "Subscribe",
+      "out": "Subscribed",
+      "onboardingDescription": "Play trivia to win cash",
+      "opted": true
+    },
+    {
+      "title": "HQ Judge This",
+      "opt": "hq-judge",
+      "in": "Subscribe",
+      "out": "Subscribed",
+      "onboardingDescription": "Play trivia to win cash",
+      "opted": true
+    },
+    {
+      "title": "HQ Editor's Pick",
+      "opt": "hq-editpick",
+      "in": "Subscribe",
+      "out": "Subscribed",
+      "onboardingDescription": "Play trivia to win cash",
+      "opted": true
+    },
+    {
+      "title": "HQ Star",
+      "opt": "hq-star",
+      "in": "Subscribe",
+      "out": "Subscribed",
+      "onboardingDescription": "Play trivia to win cash",
+      "opted": true
+    },
+    {
+      "title": "HQ After Dark",
+      "opt": "hq-latenight",
+      "in": "Subscribe",
+      "out": "Subscribed",
+      "onboardingDescription": "Play late-night trivia to win cash",
+      "opted": true
+    }
+  ]
+}

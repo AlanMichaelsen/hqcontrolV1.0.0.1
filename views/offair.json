@@ -1,0 +1,25 @@
+{
+    "gameUuid": "s",
+    "questionCount": 1,
+    "question": {
+        "question": "Which of these is the best website?",
+        "answers": [{
+                "offairAnswerId": "cjykhnfum0xqrdwm2h4hnc7w0",
+                "text": "Tetretalk"
+            },
+            {
+                "offairAnswerId": "cjykhnfum0xqsdwm286bb1y54",
+                "text": "Tetretalk"
+            },
+            {
+                "offairAnswerId": "cjykhnfum0xqtdwm20qb62g7x",
+                "text": "Tetretalk"
+            }
+        ],
+        "questionNumber": 7,
+        "totalTimeMs": 10000,
+        "timeLeftMs": 10000,
+        "erase1": false
+    },
+    "erase1s": 5
+}

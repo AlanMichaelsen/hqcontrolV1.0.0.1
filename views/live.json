@@ -1,0 +1,67 @@
+{
+	"shows": [{
+		"showType": "hq",
+		"showId": 13852,
+		"gameType": "trivia",
+		"vertical": "general",
+		"opt": "hq-general",
+		"startTime": "2020-05-24T01:00:00.000Z",
+		"display": {
+			"title": "HQ Trivia",
+			"summary": "Answer trivia for cash prizes",
+			"accentColor": "#FFFFFF",
+			"description": "Are you a sponge of random facts? HQ Trivia is the viral hit live mobile game show where your trivia smarts helps you win real cash. Answer questions that range from easy to hard, and if you get them all right, you win or split the cash prize.",
+			"image": "https://cdn.prod.hype.space/static/channel/TRIVIA/Trivia@3x.png?v=3",
+			"logo": "https://cdn.prod.hype.space/static/channel/TRIVIA/Trivia@3x.png?v=3",
+			"bgImage": "https://cdn.prod.hype.space/static/channel/TRIVIA/Trivia-frame.png",
+			"bgVideo": "https://cdn.prod.hype.space/static/channel/TRIVIA/HQ-Trivia-portrait-70percentSpeed-190kbps-HVEC_H265.mp4",
+			"subtitle": "hello"
+		},
+		"media": [],
+		"prizeCents": null,
+    "prizePoints": 750000000,
+		"currency": "USD"
+	}, {
+		"showType": "hq-sports",
+		"showId": 13849,
+		"gameType": "trivia",
+		"vertical": "sports",
+		"opt": "hq-sports",
+		"display": {
+			"title": "HQ Sports",
+			"summary": "Play sports trivia for cash prizes",
+			"accentColor": "#FFFFFF",
+			"description": "If you're a sports fan, then this game is for you. HQ Sports lets you put your hard-earned knowledge to the test by answering sports trivia questions to win cash. Answer all of the questions correctly to win or split the cash prize.",
+			"image": "https://cdn.prod.hype.space/static/channel/SPORTS/HQ-Sports-Home-Frame-Logo.png",
+			"logo": "https://cdn.prod.hype.space/static/channel/SPORTS/HQ-Sports-Home-Frame-Logo.png",
+			"bgImage": "https://cdn.prod.hype.space/static/channel/SPORTS/HQ-Sports-Frame-BG.png",
+			"bgVideo": "https://cdn.prod.hype.space/static/channel/SPORTS/HQSports_02_190kbps.mp4"
+		},
+		"media": [],
+		"prizeCents": 500000,
+		"currency": "USD"
+	}],
+	"announcements": [],
+	"offairTrivia": {
+		"isGameInProgress": true,
+		"waitTimeMs": 0,
+		"powerups": {
+			"offair-10x-pts-multi": 1,
+			"OFFAIR_PTS_MULTI_10": 1,
+			"offair-unlock": 1,
+			"OFFAIR_UNLOCK": 1
+		},
+		"games": [{
+			"gameUuid": "ckapxu5r900lf01n85ipc4asj",
+			"status": "start_game",
+			"questionNumber": 1,
+			"questionCount": 1,
+			"answerResults": [],
+			"category": "technology",
+			"reminders": [{
+				"sendMs": 435634534,
+				"message": "Complete your Daily Challenge now before it’s too late!"
+			}]
+		}]
+	}
+}
