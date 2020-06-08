@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "userId": 1,
+      "username": "alexx",
+      "avatarUrl": "https://www.famousbirthdays.com/headshots/alex-hook-6.jpg",
+      "total": "$45,361",
+      "totalCents": 4536100,
+      "wins": 8
+    },
+    {
+      "userId": 2,
+      "username": "nicole101",
+      "avatarUrl": "https://cdn.glitch.com/1e755131-ee18-4fd3-ba49-7a08f69e428b%2Fbef8229b-8a5e-4e87-a38d-8d4c3e21ea33.image.jpeg?v=1591594092311",
+      "total": "$32,917",
+      "totalCents": 3291700,
+      "wins": 7
+    },
+    {
+      "userId": 3,
+      "username": "carsonr",
+      "avatarUrl": "https://www.gstatic.com/tv/thumb/persons/1082812/1082812_v9_ba.jpg",
+      "total": "$3,261",
+      "totalCents": 326100,
+      "wins": 7
+    },
+    {
+      "userId": 4,
+      "username": "TomHanksFan",
+      "avatarUrl": "https://cdn.glitch.com/1e755131-ee18-4fd3-ba49-7a08f69e428b%2F72733533_766489200442562_3527622155359485952_n.jpg?v=1591594735843",
+      "total": "2,147",
+      "totalCents": 214700,
+      "wins": 6
+    }
+  ]
+}
